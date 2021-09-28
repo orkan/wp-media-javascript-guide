@@ -1,0 +1,11 @@
+{
+	"name": "orkan/wp-media-javascript-guide",
+	"description": "WP Media javascript guide",
+	"type": "wordpress-plugin",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "ericandrewlewis"
+		}
+	]
+}
